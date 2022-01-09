@@ -67,14 +67,12 @@ section.imagem > p {
 
 section#img01 {
     background-image: url(imagens/backgroud.jpg);
-    background-position: right center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 section#img02 {
     background-image: url(imagens/backgroud01.jpg);
-    background-position: right center;
     background-repeat: no-repeat;
     background-size: cover;
 }
