@@ -63,17 +63,16 @@ section.imagem > p {
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 0px black;
+    background-size: cover;
 }
 
 section#img01 {
     background-image: url(imagens/backgroud.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
 section#img02 {
     background-image: url(imagens/backgroud01.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
